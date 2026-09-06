@@ -1,6 +1,8 @@
 {
-  "heroTitle": "A",
-  "bodyCopy": "This is the basic copy for page A.",
-  "revision": 1,
-  "releaseId": "initial-a"
+  "heroTitle": "A Live",
+  "bodyCopy": "This is the live publication verification for page A.",
+  "revision": 4,
+  "releaseId": "release-3e6aa6ad-021c-46bb-9080-b2ad78e43c7e",
+  "contentHash": "f0527531fed117d2d5353fce10696af7b70576ebd3bb8a7857e5672b8f91f040",
+  "publishedAt": "2026-09-06T02:23:29.435Z"
 }
