@@ -1,8 +1,14 @@
 {
   "heroTitle": "A",
   "bodyCopy": "This is the basic copy for page A.",
-  "revision": 11,
-  "releaseId": "release-9cb2871e-4f97-417b-9cdd-7e11351eb887",
-  "contentHash": "d2df9f65d301d5aa837d5ecdb1f9270a836e119579b48abd270a225d1922b111",
-  "publishedAt": "2026-09-10T18:53:59.219Z"
+  "primaryActionLabel": "",
+  "primaryActionUrl": "",
+  "heroImage": "",
+  "showHighlights": false,
+  "highlights": [],
+  "schemaVersion": 2,
+  "revision": 12,
+  "releaseId": "release-0d799434-cf1f-4e67-90a1-74a0678148e5",
+  "contentHash": "8de794c8fbbb54174e3ca8b20acf695b6ba3279f419996363f489c088ba00223",
+  "publishedAt": "2026-09-10T21:08:03.308Z"
 }
